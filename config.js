@@ -1,20 +1,18 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    titleWeb: "Happy",
+    introTitle: 'Kiệt béo ú',
+    introDesc: `Thật tình cờ khi chúng ta tìm thấy nhau trong cuộc đời này, cũng thật may mắn vì anh đã xuất hiện bên cạnh em và cùng em trải qua nhiều điều trong 1 năm vừa qua. 
+    Hãy luôn cố gắng để ở bên nhau lâu hơn nha, yêu anh <3`,
+    btnIntro: 'Tận 1 năm rồi đó',
+    title: 'Hãy chọn 1 trong 2 phương án dưới đây để bày tỏ tình cảm',
+    desc: 'Thật lòng nhé',
+    btnYes: 'Yêu em vl mãi iu em em quá đỉnh em cute đáng yêu tuyệt vời',
+    btnNo: 'Ghéc em vãi em béo',
+    question: '10 lý do vì sao bạn iu tớ',
+    btnReply: 'Bấm để bày tỏ cho bạn Ngân lần nữa',
+    reply: 'Xinh đẹp, đáng yêu, giỏi giang, đảm đang, hiền lành, dễ chiều, ngoan ngoãn, tài năng, chu đáo và rất iu bạn Kiệt ',
+    mess: 'Hihi dễ thương thế tớ cảm ơn Kiệt nha',
+    messDesc: 'Bây giờ thì đi chơi thôiiiii',
+    btnAccept: 'Oki anh sẽ qua đón em',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
